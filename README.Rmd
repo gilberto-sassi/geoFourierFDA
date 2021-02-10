@@ -1,5 +1,7 @@
 ---
-output: github_document
+output:
+  bookdown::markdown_document2:
+    number_sections: false
 ---
 
 ```{r, include = FALSE}
