@@ -94,7 +94,7 @@ Giraldo, R, P Delicado, and J Mateu. 2011. “Ordinary Kriging for
 Function-Valued Spatial Data.” *Environmental and Ecological Statistics*
 18 (3): 411–26.
 
-<script type="text/javascript" id="MathJax-script" async
+<script type="text/javascript" id="MathJax-script" 
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
